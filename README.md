@@ -1,0 +1,2 @@
+# Chain-of-Thought-Guided-Deep-Multimodal-Prompt-Learning-for-Remote-Sensing-VQA
+This thesis proposes a CLIP-based framework with learnable prompts for vision-language alignment. A MetaNet generates adaptive bias vectors to guide tuning, while a layer-wise chain-of-thought enhances multi-modal reasoning. A fusion classifier and LoRA-tuned LLM enable robust feature integration and flexible free-form generation.
